@@ -9,7 +9,6 @@
 | 🎓 **Education** | Informatics Engineering student, Semester 1 |
 | 🏅 **Award** | Informatics Engineering Scholarship Awardee |
 | 💻 **Currently Learning** | C programming |
-| 🔍 **Currently Studying** | Poptrie (longest prefix match) implementation in C |
 | 🌱 **Focus** | Programming fundamentals, algorithms, and data structures |
 
 ---
