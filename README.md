@@ -2,6 +2,17 @@
 
 ---
 
+## About Me
+
+| | |
+|---|---|
+| 🎓 **Education** | Informatics Engineering student, Semester 1 |
+| 🏅 **Award** | Informatics Engineering Scholarship Awardee |
+| 💻 **Currently Learning** | C programming |
+| 🌱 **Focus** | Programming fundamentals, algorithms, and data structures |
+
+---
+
 ## Profile Overview
 
 <p align="center">
@@ -47,5 +58,5 @@
 ---
 
 <p align="center">
-  <sub>All data is pulled automatically from GitHub and may take a few hours to update.</sub>
+  <sub>GitHub data is pulled automatically and may take a few hours to update.</sub>
 </p>
