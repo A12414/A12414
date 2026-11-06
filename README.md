@@ -9,6 +9,7 @@
 | 🎓 **Education** | Informatics Engineering student, Semester 1 |
 | 🏅 **Award** | Informatics Engineering Scholarship Awardee |
 | 💻 **Currently Learning** | C programming |
+| 🔍 **Currently Studying** | Poptrie (longest prefix match) implementation in C |
 | 🌱 **Focus** | Programming fundamentals, algorithms, and data structures |
 
 ---
@@ -16,7 +17,7 @@
 ## Profile Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A12414&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A12414&theme=solarized" alt="Profile Details" />
 </p>
 
 ---
@@ -26,18 +27,18 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A12414&theme=radical" alt="Repos per Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A12414&theme=solarized" alt="Repos per Language" />
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=A12414&theme=radical" alt="Most Commit Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=A12414&theme=solarized" alt="Most Commit Language" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A12414&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A12414&theme=solarized" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A12414&theme=radical&utcOffset=7" alt="Productive Time (UTC+7)" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A12414&theme=solarized&utcOffset=7" alt="Productive Time (UTC+7)" />
     </td>
   </tr>
 </table>
