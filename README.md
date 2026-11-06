@@ -1,5 +1,7 @@
 ## Hi there 👋
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=A12414&show_icons=true&theme=radical)](https://github.com/A12414)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A12414&show_icons=true&theme=radical)](https://github.com/A12414)
+
 <!--
 **A12414/A12414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
